@@ -1,7 +1,6 @@
 # learnjs
-This is an educational test project.
 
-Here is how this project is being setup:
+This is an educational test project. Here is how this project is being setup:
 
 * create a GitHub Account
 * Sign Up
@@ -12,7 +11,7 @@ Here is how this project is being setup:
    * Add readme
    * Copy Clone URL by clicking `Code`
 
-Now Navigate to `vscode.dev`
+## Now Navigate to `vscode.dev`
 
 * Naigate to the versioning section
 * click `click opren remote repositroy`
@@ -24,3 +23,7 @@ Now Navigate to `vscode.dev`
 ```html
 <h1>Hello World<h1>
 ```
+
+## Now let's add some script
+
+
