@@ -8,5 +8,5 @@ function foo() {
   function consolelog(str)
   {
       //content = document.getElementById("console").innerHTML
-      document.getElementById("console").innerHTML = content + str  
+      document.getElementById("console").innerHTML = str  
   }
