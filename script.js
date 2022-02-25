@@ -7,6 +7,6 @@ function foo() {
 
   function consolelog(str)
   {
-      content = document.getElementById("console").innerHTML
+      //content = document.getElementById("console").innerHTML
       document.getElementById("console").innerHTML = content + str  
   }
