@@ -4,9 +4,3 @@ function foo() {
     let a = 
     document.getElementById("out").innerHTML = out;
   }
-
-  function consolelog(str)
-  {
-      //content = document.getElementById("console").innerHTML
-      document.getElementById("console").innerHTML = str  
-  }
