@@ -1,7 +1,11 @@
 function foo() {
-    document.getElementById("demo").innerHTML =
-     "Paragraph changed !!!!";
+    document.getElementById("demo").innerHTML ="test";
   }
+
+
+
+
+
   
   /*function foo() {
     let a = 0;
