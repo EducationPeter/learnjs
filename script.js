@@ -1,4 +1,9 @@
-function foo() {
+function myFunction() {
+    document.getElementById("demo").innerHTML =
+     "Paragraph changed !!!!";
+  }
+  
+  /*function foo() {
     let a = 0;
     let out = "hello"
     
@@ -9,4 +14,4 @@ function foo() {
   {
       //content = document.getElementById("console").innerHTML
       document.getElementById("console").innerHTML = str  
-  }
+  }*/
