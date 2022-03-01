@@ -1,4 +1,4 @@
-function myFunction() {
+function foo() {
     document.getElementById("demo").innerHTML =
      "Paragraph changed !!!!";
   }
