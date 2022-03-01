@@ -2,6 +2,7 @@
 
 This is an educational test project. Here is how this project is being setup:
 
+* check gmail account and look into pw save
 * create a GitHub Account
 * Sign Up
 * Give Email / Password (Credentials)
