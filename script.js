@@ -20,6 +20,10 @@ function learningVariables(){
     let c = 'hello ecma'
     let d = 4
     let e = a + d
+    // console.log(a)
+    let f = a - d
+    let g = a % d
+    let h = (a+b)/2
+    console.log (h)
     
-    // console.log(a + b + c + d + e)
 }
