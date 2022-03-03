@@ -1,5 +1,32 @@
 function myFunction(){
     
+    //let output = "hello javascript";
+   
+    document.getElementById("demo").innerHTML = "hello javascript";
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+function myFunction(){
+    
     let output = "hello"
     let b = foo()
     learningVariables()
@@ -15,6 +42,24 @@ function foo(){
     returnvalue = 4
     return returnvalue
 }
+
+
+function learningVariables(){
+
+    let a = 4;
+
+    if( 3 > 4 ){
+        console.log("3 ist größer als a");
+    }
+
+    
+
+
+}
+
+
+
+
 
 function learningVariables(){
     let a = 2
