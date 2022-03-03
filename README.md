@@ -1,5 +1,4 @@
-# learnjs
-
+# learnjs 0900
 This is an educational test project. Here is how this project is being setup:
 
 * check gmail account and look into pw save
@@ -21,7 +20,7 @@ This is an educational test project. Here is how this project is being setup:
 * find the readme file in VSC (website)
 * in addition to readme.md create a new file `index.html` and add some content like e.g.
 
-## Create a HTML File (index.html)
+## Create a HTML File (index.html) 1000
 
 ```html
 <h1>Hello World<h1>
@@ -31,7 +30,7 @@ This is an educational test project. Here is how this project is being setup:
 * What is Markdown
 * What is Code
 
-## Alternativly
+## Alternativly (eher nicht)
 
 * install VSC
 * do the git things via CMD
@@ -46,7 +45,7 @@ This is an educational test project. Here is how this project is being setup:
  * Run on Phone
  * Create an APP !!
 
-## Now let's add some script
+## Now let's add some script 1030
 
 * Its super important to understand this is executed on the remote machines browser
 * This is why we debug on the Browser
@@ -59,13 +58,14 @@ This is an educational test project. Here is how this project is being setup:
   * Operations
   * Auswertungsreihenfolge KLAMMERN
   * Concatinate Text
-* Programmablauf
+* Programmablauf 1130
   * if - statement (einfache Aufgaben, Aussagen größer/kleiner, Literatur )
   * for - loop (einfache Aufgaben, reihen, fibunacci)
   * functions (einfache Aufgaben rechteck, existierende Functionen charAt, Literatur)
 
-## Todays Project rot13
+## Todays Project rot13    1400
 * see function in script.js
 
+## 1530 fine
 
 
