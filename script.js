@@ -1,3 +1,14 @@
 function myFunction(){
-    let a = "hello"
-    document.getElementById("demo").innerHTML = a;}
+    
+    let output = "hello"
+    let b = foo()
+    output = output + b
+    
+    
+    document.getElementById("demo").innerHTML = output;
+}
+
+function foo(){
+    returnvalue = 4
+    return returnvalue
+}
