@@ -3,6 +3,7 @@ function myFunction(){
     let output = "hello"
     let b = foo()
     learningVariables()
+    rot13("das ist geheim")
     output = output + b
     
     
@@ -25,5 +26,14 @@ function learningVariables(){
     let g = a % d
     let h = (a+b)/2
     console.log (h)
+}
+
+function rot13(input){
     
+    message = input
+    
+    for (let i=0; i<=message.length(); i++){
+        console.log(message[i])
+
+    }
 }
