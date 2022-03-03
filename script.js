@@ -3,9 +3,9 @@ function myFunction(){
     let output = "hello"
     let b = foo()
     learningVariables()
-    rot13("das ist geheim")
+    output = rot13("das ist geheim")
     newLetter = shift("a")
-    output = output + b
+    // output = output + b
     
     
     document.getElementById("demo").innerHTML = output;
@@ -32,15 +32,24 @@ function learningVariables(){
 function rot13(input){
     
     message = input
+    let output = ""
     
     for (let i=0; i<=message.length; i++){
+        
         console.log(message[i])
+        
+        myChar = message[i]
 
+        newChar = shift(myChar)
+        
+        output = output + newChar
     }
+
+    return output
 }
 
 function shift(c){
     pos = c.charCodeAt()
     pos = pos + 13
-    rv = String.fromCharCode(c)
+    rv = String.fromCharCode(pos)
 }
