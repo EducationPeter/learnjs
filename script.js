@@ -34,7 +34,7 @@ function rot13(input){
     message = input
     let output = ""
     
-    for (let i=0; i<=message.length; i++){
+    for (let i=0; i<message.length; i++){
         
         console.log(message[i])
         
