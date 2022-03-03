@@ -21,5 +21,5 @@ function learningVariables(){
     let d = 4
     let e = a + d
     
-    console.log(a + b + c + d + e)
+    // console.log(a + b + c + d + e)
 }

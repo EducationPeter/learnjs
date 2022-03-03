@@ -32,11 +32,16 @@ This is an educational test project. Here is how this project is being setup:
 * install VSC
 * do the git things via CMD
 
-
-
 ### Lets do some HTML Basics
+
+* What is a markup language
+* inject Code
 
 ## Now let's add some script
 
-## Debugging
-using the in Browser Debugger
+* Its super important to understand this is executed on the remote machines browser
+* This is why we debug on the Browser
+* What is debugging
+* Now add some code (script.js)
+
+
