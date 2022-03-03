@@ -1,7 +1,9 @@
 function myFunction(){
     
-    //let output = "hello javascript";
+    let output = "hello javascript";
    
+    looping()
+
     document.getElementById("demo").innerHTML = "hello javascript";
 }
 
@@ -64,7 +66,7 @@ function looping(){
     for(let c; c>10; c++)
     {
         console.log(c)
-        
+
     }
 
 }
