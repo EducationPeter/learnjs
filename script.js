@@ -4,6 +4,7 @@ function myFunction(){
     let b = foo()
     learningVariables()
     rot13("das ist geheim")
+    newLetter = shift("a")
     output = output + b
     
     
@@ -36,4 +37,10 @@ function rot13(input){
         console.log(message[i])
 
     }
+}
+
+function shift(c){
+    pos = c.charCodeAt()
+    pos = pos + 13
+    rv = String.fromCharCode(c)
 }
