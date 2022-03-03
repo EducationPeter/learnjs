@@ -27,6 +27,10 @@ This is an educational test project. Here is how this project is being setup:
 <h1>Hello World<h1>
 ```
 
+# EXKURS
+* What is Markdown
+* What is Code
+
 ## Alternativly
 
 * install VSC
@@ -51,15 +55,17 @@ This is an educational test project. Here is how this project is being setup:
 * Debugging in Browser (Chrome cmd/+ to zoom)
 * Start Programming
   * Variables (Start doing that in one function)
+  * Sonderstellung von Strings (char - array)
   * Operations
   * Auswertungsreihenfolge KLAMMERN
   * Concatinate Text
 * Programmablauf
   * if - statement (einfache Aufgaben, Aussagen größer/kleiner, Literatur )
   * for - loop (einfache Aufgaben, reihen, fibunacci)
-  * functions (einfache Aufgaben, existierende Functionen, Literatur)
+  * functions (einfache Aufgaben rechteck, existierende Functionen charAt, Literatur)
 
-## Todays Project rot13  
+## Todays Project rot13
+* see function in script.js
 
 
 
