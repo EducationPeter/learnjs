@@ -52,4 +52,5 @@ function shift(c){
     pos = c.charCodeAt()
     pos = pos + 13
     rv = String.fromCharCode(pos)
+    return rv
 }
