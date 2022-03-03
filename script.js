@@ -26,7 +26,7 @@ function myFunction(){
 
 
 
-
+/*
 function myFunction(){
     
     let output = "hello"
@@ -38,7 +38,7 @@ function myFunction(){
     
     
     document.getElementById("demo").innerHTML = output;
-}
+}*/
 
 function foo(){
     returnvalue = 4
